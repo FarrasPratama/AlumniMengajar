@@ -3,7 +3,7 @@
 
 <head>
     <!-- icon -->
-    <link rel="icon" href="images/logo.ico">
+    <link rel="icon" href="images/logoAM.ico">
     <!-- basic -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="initial-scale=1, maximum-scale=1">
     <!-- site metas -->
-    <title>Sitco</title>
+    <title>Alumni Mengajar</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -51,7 +51,7 @@
                     <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
                         <div class="full">
                             <div class="center-desk">
-                                <div class="logo"> <a href="index.html"><img src="images/logo.png" alt="#"></a> </div>
+                                <div class="logo"> <a href="index.php"><img class="logo" src="images/logoAM.png" alt="#"></a> </div>
                             </div>
                         </div>
                     </div>
@@ -127,9 +127,15 @@
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-12">
                             <h3>Recent Post</h3>
-                            <p><span><img class="news" src="images/f_b1.png"></span><span>Fantastis, Nilai Ekspor<br>Porang Tahun 2020 ...</span></p>
-                            <p class="margin_top_20"><span><img class="news" src="images/f_b2.png"></span><span>Konjac: 6 Potential<br>Health Benefit</span></p>
-                            <p class="margin_top_20"><span><img class="news" src="images/f_b3.png"></span><span>Blog: Import-Export<br> </span></p>
+                            <a href="https://www.universitas123.com/news/fakta-tentang-dunia-perkuliahan-menarik" target="_blank" rel="noopener noreferrer">
+                                <p><span><img class="news" src="images/f_b1.jpg"></span><span>5 Fakta Tentang<br>Dunia Perkuliahan ...</span></p>
+                            </a>
+                            <a href="https://www.detik.com/edu/perguruan-tinggi/d-5706687/14-universitas-terbaik-indonesia-versi-the-world-university-rankings-2022" target="_blank" rel="noopener noreferrer">
+                                <p class="margin_top_20"><span><img class="news" src="images/f_b2.jpeg"></span><span>14 Universitas<br>Indonesia Terbaik ...</span></p>
+                            </a>
+                            <a href="https://pimnas34.usu.ac.id/" target="_blank" rel="noopener noreferrer">
+                                <p class="margin_top_20"><span><img class="news" src="images/f_b3.jpg"></span><span>Pimnas 34 -<br>Pekan Ilmiah ... </span></p>
+                            </a>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-12">
                             <h3>Newsletter</h3>

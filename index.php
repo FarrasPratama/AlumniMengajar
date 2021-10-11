@@ -51,7 +51,7 @@
                     <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
                         <div class="full">
                             <div class="center-desk">
-                                <div class="logo"><a href="index.html"><img class="logo" src="images/logoAM.png" alt="#"></a> </div>
+                                <div class="logo"><a href="index.php"><img class="logo" src="images/logoAM.png" alt="#"></a> </div>
                             </div>
                         </div>
                     </div>
@@ -326,14 +326,14 @@
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-12">
                             <h3>Recent Post</h3>
-                            <a href="https://pangan.sariagri.id/68276/fantastis-nilai-ekspor-porang-tahun-2020-tembus-rp1-42-triliun" target="_blank" rel="noopener noreferrer">
-                                <p><span><img class="news" src="images/f_b1.png"></span><span>5 Fakta Tentang<br>Dunia Perkuliahan ...</span></p>
+                            <a href="https://www.universitas123.com/news/fakta-tentang-dunia-perkuliahan-menarik" target="_blank" rel="noopener noreferrer">
+                                <p><span><img class="news" src="images/f_b1.jpg"></span><span>5 Fakta Tentang<br>Dunia Perkuliahan ...</span></p>
                             </a>
-                            <a href="https://www.medicalnewstoday.com/articles/319979#what-is-konjac" target="_blank" rel="noopener noreferrer">
-                                <p class="margin_top_20"><span><img class="news" src="images/f_b2.png"></span><span>14 Universitas<br>Indonesia Terbaik ...</span></p>
+                            <a href="https://www.detik.com/edu/perguruan-tinggi/d-5706687/14-universitas-terbaik-indonesia-versi-the-world-university-rankings-2022" target="_blank" rel="noopener noreferrer">
+                                <p class="margin_top_20"><span><img class="news" src="images/f_b2.jpeg"></span><span>14 Universitas<br>Indonesia Terbaik ...</span></p>
                             </a>
-                            <a href="https://www.cekindo.com/blog/import-export" target="_blank" rel="noopener noreferrer">
-                                <p class="margin_top_20"><span><img class="news" src="images/f_b3.png"></span><span>Pimnas 34 -<br>Pekan Ilmiah ... </span></p>
+                            <a href="https://pimnas34.usu.ac.id/" target="_blank" rel="noopener noreferrer">
+                                <p class="margin_top_20"><span><img class="news" src="images/f_b3.jpg"></span><span>Pimnas 34 -<br>Pekan Ilmiah ... </span></p>
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-12">
