@@ -83,14 +83,15 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="full">
-                        <h1><strong class="cur">Alumni</strong><br>Mengajar</h1>
+                        <h1><strong class="cur"></strong><br>Alumni Mengajar</h1>
                             <p class="profile">Kembali Untuk Berbagi</p>
+                            <img src="images/titik2.png" alt="#"/>
                             <div class="button_section"><a class="main_bt" href="#contact">Contact</a></div>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="full text_align_center">
-                        <img class="slide_img" src="images/slider_img.png" alt="#" /> 
+                        <img class="slide_img" src="images/ilustrasi.png" alt="#" /> 
                     </div>
                 </div>
             </div>
@@ -126,7 +127,7 @@
                                         </span>
                                 </div>
                                 <div class="full margin_top_30">
-                                    <button><a class="main_bt" onclick="myFunction()" id="myBtn">Read More</a></button>
+                                    <button><a class="main_bt" onclick="myFunction()" id="myBtn">visi & misi</a></button>
                                 </div>
                             </div>
                         </div>
@@ -183,7 +184,7 @@
     </div>
     <!-- end section -->
     <!-- section -->
-    <div class="section layout_padding">
+    <!-- <div class="section layout_padding">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
@@ -207,10 +208,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- end section -->
     <!-- section -->
-    <div id="blog" class="section dark_bg layout_padding right_white">
+    <div id="blog" class="section layout_padding right_white">
         <div class="container">
             <div class="row">
                <div class="col-md-12">
@@ -226,9 +227,9 @@
                     <div class="full bl">
                         <img class="img-responsive" src="images/f_b1.jpg" alt="#" />
                     </div>
-                    <div class="full blog_blue text_align_center">
-                        <h5 class="white_font">Post by Universitas123.com</h3>
-                        <p>5 Fakta Tentang Dunia Perkuliahan yang Menarik</p>
+                    <div class="full blog_blue">
+                        <p class="post_txt">5 Fakta Tentang Dunia Perkuliahan yang Menarik</p>
+                        <h5 class="post_font">Universitas123.com</h3>
                     </div> 
                     </div>  
                     </a>
@@ -239,9 +240,9 @@
                     <div class="full bl">
                         <img class="img-responsive" src="images/f_b2.jpeg" alt="#" />
                     </div> 
-                    <div class="full blog_blue text_align_center">
-                        <h5 class="white_font">Post by Detik.com</h3>
-                        <p>14 Universitas Terbaik Indonesia Versi THE World University Rankings 2022</p>
+                    <div class="full blog_blue">
+                        <p class="post_txt">14 Universitas Terbaik Indonesia Versi THE World University Rankings 2022</p>
+                        <h5 class="post_font">Detik.com</h3>
                     </div>
                     </div>
                     </a>
@@ -252,9 +253,9 @@
                     <div class="full bl">
                         <img class="img-responsive" src="images/f_b3.jpg" alt="#" />
                     </div> 
-                    <div class="full blog_blue text_align_center">
-                        <h5 class="white_font">Post by Universitas Sumatera Utara</h3>
-                        <p>PIMNAS 34 – Pekan Ilmiah Mahasiswa Nasional 34</p>
+                    <div class="full blog_blue">
+                        <p class="post_txt">PIMNAS 34 – Pekan Ilmiah Mahasiswa Nasional 34</p>
+                        <h5 class="post_font">Pimnas34.usu.ac.id</h3>
                     </div>
                     </div>
                     </a>

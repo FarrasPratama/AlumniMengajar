@@ -172,7 +172,7 @@ p {
      width: 100%;
 }
 .float-left{
-    width: 150%;
+    width: 100%;
 }
  .layout_padding {
      padding-top: 90px;
@@ -198,7 +198,7 @@ p {
      margin-top: 20px !important;
 }
 .dark_bg {
-     background: #008be8;
+     background: #d9eefc;
 }
  .full {
      width: 100%;
@@ -208,7 +208,17 @@ p {
 }
 
 .white_font {
-     color: #fff !important;
+     color: #008be8 !important;
+}
+
+.post_txt {
+    color: #fff !important;
+}
+
+.post_font {
+    color: #bfbfbf !important;
+    padding-left: 15px;
+    padding-bottom: 15px;
 }
 
 /**-- heading section --**/
@@ -1155,12 +1165,12 @@ p {
      padding-left: 15px;
 }
  .dark_bg {
-     background: #008be8;
+     background: #d9eefc;
 }
 /*--------------------------------------------------------------------- top banner area ---------------------------------------------------------------------*/
  .slider_section {
      min-height: 560px;
-     background: #008be8;
+     background: #fff;
      position: relative;
 }
 .slider_section::after {
@@ -1447,7 +1457,7 @@ p {
 .slider_section h1 {
     font-size: 65px;
     line-height: 65px;
-    color: #fff;
+    color: #008be8;
     font-weight: 500;
     margin-bottom: 25px;
     padding-bottom: 0;
@@ -1465,7 +1475,8 @@ p {
     font-size: 17px;
 }
 .slider_section p.profile {
-    color: #fff;
+    color: #ffce31;
+    padding-bottom: 50px;
     font-size: 22px;
 }
 .banner-main span {
@@ -1715,7 +1726,7 @@ p {
      color: #fff;
 }
 .footer {
-    background-color: #008be8;
+    background-color: #d9eefc;
 }
  .footer .JJcoach {
     margin-top: 45px;
@@ -1793,7 +1804,7 @@ p {
      align-items: center;
 }
 .copyright {
-    background-color: #ffce31;
+    background-color: #008be8;
     padding: 10px 0px;
     float: left;
     width: 100%;
@@ -1890,7 +1901,7 @@ p {
     width: 10%;
     right: 0;
     top: 0;
-    background: #fff;
+    background: #d9eefc;
     content: "";
     display: block;
 }
@@ -1928,7 +1939,7 @@ p {
     z-index: 1;
 }
 .blog_blue {
-    background: #ffce31;
+    background: #008be8;
     margin-top: -1px;
     position: relative;
 }
@@ -1940,7 +1951,7 @@ p {
     position: absolute;
     top: -30px;
     left: -5%;
-    background: #ffce31;
+    background: #008be8;
     transform: rotate(6deg);
 }
 header {
@@ -1948,18 +1959,18 @@ header {
     z-index: 999;
 }
 footer p a {
-    color: #fff;
+    color: #333;
     line-height: 30px;
 }
 footer h3 {
-    color: #fff;
+    color: #008be8;
     font-size: 30px;
     font-weight: 500;
     margin-top: 0;
     margin-bottom: 35px;
 }
 footer p {
-    color: #fff;
+    color: #333;
     font-size: 17px;
     line-height: 30px;
     float: left;
@@ -1973,6 +1984,7 @@ footer p span {
     font-size: 15px;
     line-height: 24px;
     float: left;
+    color: #333;
 }
 
 footer input {
@@ -1986,7 +1998,7 @@ footer input {
 
 footer button {
 
-    background: #ffce31;
+    background: #008be8;
     color: #fff;
     width: 95px;
     height: 48px;
@@ -2061,7 +2073,7 @@ footer button {
 
   #catalogue{
       padding: 20px;
-      background-color: #ffce31;
+      background-color: #fff;
       color: #008be8;
   }
 
@@ -2070,7 +2082,7 @@ footer button {
   }
 
   .bg_green{
-      background-color: #ffce31;
+      background-color: #fff;
   }
 
   #text{
